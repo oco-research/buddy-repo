@@ -1,2 +1,3 @@
-# main-repo-buddy
-Dependent repo for "Hack away 2020" demo
+# Buddy repo for "Hack away 2020" demo
+
+:wave: Hi, I'm the buddy repo here!
